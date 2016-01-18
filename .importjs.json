@@ -1,0 +1,6 @@
+{
+  "use_relative_paths": true,
+  "lookup_paths": [
+    "app/assets/javascripts"
+  ]
+}
